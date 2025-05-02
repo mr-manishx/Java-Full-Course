@@ -1,0 +1,43 @@
+# STS/Eclipse metadata
+.metadata/
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.sublime-workspace
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# STS specific (sometimes uses .recommenders)
+.recommenders/
+
+# IntelliJ IDEA (just in case)
+*.iml
+.idea/
+
+# VSCode (just in case)
+.vscode/
+
+# Ignore all but src/ folder
+!src/
